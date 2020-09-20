@@ -1,0 +1,11 @@
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/obj/Debug/netcoreapp3.1/WPA-Gen.vbprojAssemblyReference.cache
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/obj/Debug/netcoreapp3.1/WPA-Gen.AssemblyInfoInputs.cache
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/obj/Debug/netcoreapp3.1/WPA-Gen.AssemblyInfo.vb
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen.deps.json
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen.runtimeconfig.json
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen.runtimeconfig.dev.json
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen.dll
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/bin/Debug/netcoreapp3.1/WPA-Gen.pdb
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/obj/Debug/netcoreapp3.1/WPA-Gen.dll
+/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/obj/Debug/netcoreapp3.1/WPA-Gen.pdb
