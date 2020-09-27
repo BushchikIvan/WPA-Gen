@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xigEl0P0ROpv7Ibru+Nib+8LWhXek1uHkAs/FnG4cwAEAEM2CmVaAgI5ymCBa4k95/t7EJVIbnOsf5UHMXvW3A==",
+  "dgSpecHash": "NFlLDmp2WbnO27Ewo6dTNP3zK1FbAa5p/+eG0CvPW9mnTzX5iq0hycXd8JooMkIxH9SmTTyFJkJ+p3Lw2AGPAQ==",
   "success": true,
   "projectFilePath": "/home/ivabus/RiderProjects/WPA-Gen/WPA-Gen/WPA-Gen.vbproj",
-  "expectedPackageFiles": [
-    "/home/ivabus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
