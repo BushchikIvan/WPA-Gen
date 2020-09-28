@@ -21,7 +21,7 @@ Module Program
                                                                 For g1 = 1 To Ubound(mass)
                                                                     For h1 = 1 To Ubound(mass)
                                                                         temp = mass(a) + mass(b) + mass(c) + mass(d) + mass(e) + mass(f) + mass(g) + mass(h) + mass(a1) + mass(b1) + mass(c1) + mass(d1) + mass(e1) + mass(f1) + mass(g1) + mass(h1)
-                                                                        PrintLine(temp)
+                                                                        PrintLine(1, temp)
                                                                     Next
                                                                 Next
                                                             Next
